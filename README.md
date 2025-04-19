@@ -1,6 +1,5 @@
 # PricePulse
 An automated engine that fix dynamic pricing based on sales
-# PricePulse - Thrd Coding Challenge
 
 A Python-based pricing engine that dynamically adjusts product prices based on inventory and sales data, built for the Thrd Coding Challenge. PricePulse processes CSV inputs, applies smart pricing rules, and outputs updated prices, optimized for Google Colab.
 
